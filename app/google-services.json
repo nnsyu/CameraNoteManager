@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "301109882308",
+    "firebase_url": "https://cameranote-13031-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cameranote-13031",
+    "storage_bucket": "cameranote-13031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301109882308:android:a50f757055eea728370891",
+        "android_client_info": {
+          "package_name": "com.ewoo.cameranote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301109882308-1kqre8t1q50hts6h8efqr8vn81lbl67q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA02abulblucy-eNkmwrc8gmPW-GelotZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301109882308-1kqre8t1q50hts6h8efqr8vn81lbl67q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301109882308:android:80ba6b8125eb23fd370891",
+        "android_client_info": {
+          "package_name": "com.ewoo.cameranotemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301109882308-1kqre8t1q50hts6h8efqr8vn81lbl67q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA02abulblucy-eNkmwrc8gmPW-GelotZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301109882308-1kqre8t1q50hts6h8efqr8vn81lbl67q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
