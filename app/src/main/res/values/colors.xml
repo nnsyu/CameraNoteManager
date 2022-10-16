@@ -7,4 +7,15 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="btnId">#F8F1E9</color>
+    <color name="main_high_light_gray">#F6F6F6</color>
+    <color name="main_light_gray">#EDEDED</color>
+    <color name="main_gray">#CACACA</color>
+    <color name="main_dark_gray">#9C948C</color>
+    <color name="main_deep_dark_grey">#414141</color>
+    <!--    <color name="main_dark_gray">#8A8A8A</color>-->
+    <color name="main_deep_dark_gray">#65625E</color>
+
+    <color name="main_light_grey">#939393</color>
 </resources>

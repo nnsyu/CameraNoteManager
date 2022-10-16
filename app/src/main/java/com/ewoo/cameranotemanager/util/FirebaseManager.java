@@ -5,7 +5,7 @@ import com.google.firebase.database.FirebaseDatabase;
 
 public class FirebaseManager {
 
-    public static DatabaseReference mainRef = FirebaseDatabase.getInstance().getReference("OurPoem");
-    public static DatabaseReference accountRef = mainRef.child("account");
-    public static DatabaseReference poemRef = mainRef.child("poem");
+    public static DatabaseReference mainRef = FirebaseDatabase.getInstance().getReference("camnote");
+    public static DatabaseReference passwordRef = mainRef.child("password");
+    public static DatabaseReference adminKeyRef = mainRef.child("adminkey");
 }
