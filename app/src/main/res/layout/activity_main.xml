@@ -63,7 +63,7 @@
         android:background="@drawable/bg_et"
         android:elevation="10dp"
         android:inputType="number"
-        android:maxLength="6"
+        android:maxLength="4"
         android:paddingHorizontal="15dp"
         android:paddingVertical="10dp"
         android:singleLine="true"

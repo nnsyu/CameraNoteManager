@@ -46,10 +46,10 @@ public class MainActivity extends AppCompatActivity {
                                 if (inputPw.equals("")) {
                                     Toast.makeText(MainActivity.this, "변경할 비밀번호를 입력해 주십시오.", Toast.LENGTH_SHORT).show();
                                 } else {
-                                    if (inputPw.length() != 6) {
-                                        Toast.makeText(MainActivity.this, "6자리를 입력해 주십시오.", Toast.LENGTH_SHORT).show();
+                                    if (inputPw.length() != 4) {
+                                        Toast.makeText(MainActivity.this, "4자리를 입력해 주십시오.", Toast.LENGTH_SHORT).show();
                                     } else {
-                                        FirebaseManager.passwordRef.setValue(Integer.parseInt(inputPw));
+                                        FirebaseManager.passwordRef.setValue(inputPw);
                                         Toast.makeText(MainActivity.this, "비밀번호를 변경하였습니다.", Toast.LENGTH_SHORT).show();
                                     }
                                 }
